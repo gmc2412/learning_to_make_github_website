@@ -1,6 +1,6 @@
 # welcome to my site 
 
-[Page 2 link] (Page2.html) 
+[Page 2 link] (page2.html) 
 
 ## Section 1 about raccons 
 
