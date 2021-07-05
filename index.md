@@ -1,5 +1,7 @@
 # welcome to my site 
 
+[Page 2 link] (Page2.html) 
+
 ## Section 1 about raccons 
 
 a raccon like grabbing _food_ but they get _angry_
